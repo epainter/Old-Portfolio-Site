@@ -1,0 +1,1 @@
+gallery images are in the "gallery folder" along with thumbnail views of each.
